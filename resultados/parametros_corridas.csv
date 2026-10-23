@@ -1,0 +1,6 @@
+﻿configuracion,poblacion,generaciones,prob_mutacion_por_hijo,elitismo,torneo_k,prob_cruce,inicializacion
+1,64,320,0.85,3,3,0.9,aleatoria_admisible_sin_voraz
+2,64,320,0.45,3,3,0.9,aleatoria_admisible_sin_voraz
+3,96,320,0.85,3,3,0.9,aleatoria_admisible_sin_voraz
+4,64,450,0.85,3,3,0.9,aleatoria_admisible_sin_voraz
+5,64,320,0.85,8,3,0.9,aleatoria_admisible_sin_voraz
